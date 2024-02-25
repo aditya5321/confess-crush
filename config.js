@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "My Crush",
-    introTitle: "For Anyone",
+    introTitle: "For Anchal🥰",
     introDesc: `Earth is inherently strange
     But why do I keep going the wrong way?
     Lost in his lonely heart
